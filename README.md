@@ -1,5 +1,5 @@
 <div>
-  <img align="center" alt="Header" src="https://github.com/FHg80/FHg80/master/img/github-header-img.png"/>
+  <img align="center" alt="Header" src="https://github.com/FHg80/FHg80/master/img/github-header-img.png](https://github.com/FHg80/FHg80/blob/master/img/github-header-image.png"/>
 </div>
 
 
