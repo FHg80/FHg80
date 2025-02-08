@@ -1,6 +1,4 @@
-<div>
-  <img align="center" alt="Header" src="https://github.com/FHg80/FHg80/blob/master/img/github-header-img.png"/>
-</div>
+![Header](./img/github-header-image.png)
 
 
 ## Sobre 📝
