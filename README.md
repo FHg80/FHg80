@@ -1,3 +1,8 @@
+<div>
+  <img align="center" alt="Header" src="https://github.com/FHg80/FHg80/master/img/github-header-img.png"/>
+</div>
+
+
 ## Sobre 📝
 
 ### Desenvolvedor Front-end 💻 e Estudante de Engenharia de Software na PUC Minas 📔
