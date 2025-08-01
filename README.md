@@ -28,6 +28,3 @@ Hoje, sou especificamente um desenvolvedor Front-end, mas possuo competências e
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grunt/grunt-original.svg" />
 </div>
 
-##
-
-![Snake Animation](https://github.com/FHg80/FHg80/blob/output/github-contribution-grid-snake.svg)
