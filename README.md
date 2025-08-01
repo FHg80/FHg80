@@ -1,6 +1,5 @@
 ![Header](./img/github-header-image.png)
 
-
 ## Sobre 📝
 
 ### Desenvolvedor Front-end 💻 e Estudante de Engenharia de Software na PUC Minas 📔
@@ -28,4 +27,3 @@ Hoje, sou especificamente um desenvolvedor Front-end, mas possuo competências e
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grunt/grunt-original.svg" />
 </div>
-
