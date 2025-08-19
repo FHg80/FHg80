@@ -8,7 +8,7 @@ Oi, me chamo Pedro tenho 20 anos e sou apaixonado por tecnologia. Por conta diss
 Hoje, sou especificamente um desenvolvedor Front-end, mas possuo competências em outras áreas também.
 
 <div>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=FHg80&icon_color=B069DB&text_color=B069DB&title_color=B069DB&theme=radical&bg_color=00000000&show_icons=true&hide=stars,prs,issues,contribs" />
+  <!-- <img height="140em" src="https://github-readme-stats.vercel.app/api?username=FHg80&icon_color=B069DB&text_color=B069DB&title_color=B069DB&theme=radical&bg_color=00000000&show_icons=true&hide=stars,prs,issues,contribs" /> -->
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FHg80&layout=compact&icon_color=B069DB&text_color=B069DB&title_color=B069DB&theme=radical&bg_color=00000000&show_icons=true&hide=stars,prs,issues,contribs" />
 </div>
 
